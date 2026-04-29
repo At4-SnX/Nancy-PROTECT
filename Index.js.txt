@@ -1,0 +1,3 @@
+console.log("🚀 BOT START TEST");
+
+setInterval(() => {}, 1000);
